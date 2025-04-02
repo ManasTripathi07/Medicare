@@ -20,8 +20,8 @@ Medicare Frontend is a web application designed to provide users with healthcare
 Follow these steps to set up the project locally:
 
 1. Clone the repository:
-   ```sh
-   git clone <https://github.com/ManasTripathi07/Medicare>
+  ```sh
+   git clone https://github.com/ManasTripathi07/Medicare.git
    ```
 2. Navigate to the project directory:
    ```sh
